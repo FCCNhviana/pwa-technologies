@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <name>hadoop</name>
-  <url>http://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.14</url>   
+  <url>https://github.com/FCCNhviana/hadoop-common/tree/branch-0.14</url>   
   <groupId>org.apache</groupId>
   <artifactId>hadoop</artifactId>
   <version>0.14.5-dev-core</version>
